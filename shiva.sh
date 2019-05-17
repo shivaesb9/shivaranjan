@@ -1,0 +1,4 @@
+echo "hi"
+cal
+date
+
